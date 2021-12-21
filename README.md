@@ -28,17 +28,17 @@ php artisan vendor:publish --tag=blade-bootstrapicons-config
 Icons can be used as self-closing Blade components which will be compiled to SVG icons:
 
 ```blade
-<x-bootstrapicon-home/>
+<x-bootstrapicon-house/>
 ```
 
 You can also pass classes to your icon components:
 
 ```blade
-<x-bootstrapicon-home class="w-6 h-6 text-gray-500"/>
+<x-bootstrapicon-house class="w-6 h-6 text-gray-500"/>
 ```
 
 And even use inline styles:
 
 ```blade
-<x-bootstrapicon-home style="color: #7411f6"/>
+<x-bootstrapicon-house style="color: #7411f6"/>
 ```
