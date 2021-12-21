@@ -2,7 +2,7 @@
 
 A package to easily make use of [Bootstrap Icons](https://icons.getbootstrap.com/) in your Laravel Blade views.
 
-For a full list of available icons see [the SVG directory](resources/svg) or preview them at [https://icons.getbootstrap.com/]((https://icons.getbootstrap.com/).
+For a full list of available icons see [the SVG directory](resources/svg) or preview them at [https://icons.getbootstrap.com](https://icons.getbootstrap.com/).
 
 ## Requirements
 
